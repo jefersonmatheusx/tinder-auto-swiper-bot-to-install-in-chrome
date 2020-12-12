@@ -1,5 +1,5 @@
 # tinder-auto-swiper-bot-to-install-in-chrome
-a simple tinder automatic swiper
+a simple tinder automatic swiper extension for chrome
 
 # To install the extension in chrome 
 after download the project: 
