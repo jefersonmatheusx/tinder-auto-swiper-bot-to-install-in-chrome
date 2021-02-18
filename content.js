@@ -58,4 +58,8 @@ const intervalo = setInterval(() => {
 //   }, 1000)
 //   },2000)
   
-//   clearInterval(intervalo)
+//   clearInterval(intervalo) // caso queira parar
+
+// um script para achar conversas não lidas no meio da bagunça 
+// var unRead = document.querySelector('[aria-label="Nova mensagem"]');
+// unRead.click()
