@@ -48,7 +48,7 @@ let textArray = [
   'Qual é a sua frase de filme favorita?',
   'Qual é o pior iniciador de conversa que você já teve neste aplicativo?',
   'O que você está desejando hoje?',
-  'Você se descreveria como espontâneo?',
+  'Você se descreveria como espontânea?',
   'Nós combinando é o melhor crossover desde Os Vingadores , você não acha?',
   'Nunca vi uma biografia melhor que a sua. Qual é a coisa mais emocionante sobre você? ',
   'Pessoa de gato ou cachorro? ',
