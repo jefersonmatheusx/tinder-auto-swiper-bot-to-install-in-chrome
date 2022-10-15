@@ -1,4 +1,8 @@
-/** Esta funcionalidade irá filtrar pessoas que lhe mandaram mensagem mas não foram respondias e pessoas que não te responderam, talvez muito útil para recaptular uma conversa antiga */
+/** Esta funcionalidade irá filtrar pessoas que lhe mandaram mensagem mas não foram respondias e pessoas que não te responderam, talvez muito útil para recaptular uma conversa antiga
+ *
+ * dá para fazer mandar as frases tbm para as pessoas que te deixaram no vácuo kk
+ *
+ */
 
 let emitterNotReaden = true
 let listChat = document.getElementsByClassName('messageListItem')
