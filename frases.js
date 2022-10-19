@@ -61,9 +61,7 @@ let textArray = [
   'OK, vamos compartilhar histórias ruins de encontros. Você vai primeiro😜',
   'Eu amo a cor dos seus olhos. ',
   'Você parece alguém que gosta de aventuras. ',
-  ''
-]
-let frases2 = [
+  '',
   'O que você faz que te deixa impressionado com a vida?',
   'Qual foi a coisa mais incrível que você já teve coragem de fazer?',
   'Você tem algum amigo de longa data que não se vê sem?',
