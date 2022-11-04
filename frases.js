@@ -35,7 +35,7 @@ let textArray = [
   'Eu tenho algum tempo de folga chegando. Se você fosse eu, para onde iria? A praia, as montanhas ou dormir para um dia relaxante?',
   'Emprego dos sonhos: crítico gastronômico ou fotógrafo profissional de filhotes?',
   '3 coisas que você gostaria de fazer antes de morrer?',
-  'Se fôssemos fazer um piquenique, que lanches você leletia? ',
+  'Se fôssemos fazer um piquenique, que lanches você levaria? ',
   'O que você faria se ganhasse na loteria amanhã? ',
   'Qual é o próximo lugar na sua lista de viagens ?',
   'Onde você se vê daqui a 5 anos? ',
